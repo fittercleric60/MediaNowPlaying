@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "downloadUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.1.1/MediaNowPlayingApp.exe",
-  "releaseNotes": "Fixes updater script launch failure on some Windows systems when applying an in-place update.",
-  "releasePageUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.1.1"
+  "version": "1.1.2",
+  "downloadUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.1.2/MediaNowPlayingApp.exe",
+  "releaseNotes": "Adds combined title/artist vertical positioning and improves full-size background behavior when elements are hidden.",
+  "releasePageUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.1.2"
 }
