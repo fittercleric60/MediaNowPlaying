@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.7",
-    "downloadUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.0.7/MediaNowPlayingApp.exe",
-    "releaseNotes":  "Added feature letting you hide source, and show for a customizable amount of time, after song starts, and before it ends.",
-    "releasePageUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.0.7"
+    "version":  "1.0.8",
+    "downloadUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.0.8/MediaNowPlayingApp.exe",
+    "releaseNotes":  "Attempt to fix the app breaking, when updating to 1.0.7 from 1.0.6.",
+    "releasePageUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.0.8"
 }
