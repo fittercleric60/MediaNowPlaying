@@ -1,5 +1,5 @@
 {
-  "version": "X.Y.Z",
+  "version": "1.0.3",
   "downloadUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/download/vX.Y.Z/MediaNowPlayingApp.exe",
   "releaseNotes": "Updated internals to properly check update-manifest.json json fields.",
   "releasePageUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/vX.Y.Z"
