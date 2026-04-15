@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.8",
-    "downloadUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.0.8/MediaNowPlayingApp.exe",
-    "releaseNotes":  "Attempt to fix the app breaking, when updating to 1.0.7 from 1.0.6.",
-    "releasePageUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.0.8"
+    "version":  "1.0.9",
+    "downloadUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.0.9/MediaNowPlayingApp.exe",
+    "releaseNotes":  "Updated updater, so it updates properly when updating..",
+    "releasePageUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.0.9"
 }
