@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.5",
-    "downloadUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.0.5/MediaNowPlayingApp.exe",
-    "releaseNotes":  "Hid manifest URL.",
-    "releasePageUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.0.5"
+    "version":  "1.0.6",
+    "downloadUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.0.6/MediaNowPlayingApp.exe",
+    "releaseNotes":  "Removed public facing licensing, and updated dono link to business account.",
+    "releasePageUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.0.6"
 }
