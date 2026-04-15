@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "downloadUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.0.3/MediaNowPlayingApp.exe",
-  "releaseNotes": "Updated internals to properly check update-manifest.json json fields.",
-  "releasePageUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.0.3"
+    "version":  "1.0.4",
+    "downloadUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.0.4/MediaNowPlayingApp.exe",
+    "releaseNotes":  "Now shows the running version in 2 places; Window title and main window footer.",
+    "releasePageUrl":  "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.0.4"
 }
