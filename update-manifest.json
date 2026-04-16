@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "downloadUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.1.4/MediaNowPlayingApp.exe",
-  "releaseNotes": "Adds in-app chat trigger setup helpers and saved defaults for local bot integrations.",
-  "releasePageUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.1.4"
+  "version": "1.1.5",
+  "downloadUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/download/v1.1.5/MediaNowPlayingApp.exe",
+  "releaseNotes": "Simplifies chat triggers to duration-only defaults and cleans up the in-app bot setup helper.",
+  "releasePageUrl": "https://github.com/fittercleric60/MediaNowPlaying/releases/tag/v1.1.5"
 }
